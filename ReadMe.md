@@ -1,15 +1,6 @@
-# Edubridge;
-This repository contains projects which were created at the time of learning Data Analytics course from EduBridge.
+# EduBridge Learning;
+This repository contains projects which were created at the time of learning Data Analytics from EduBridge Learning:
 
-# Data Analytic Tools Learned From Edubridge India During Training;
-a.Python
-b.Mongodb
-c.MySql
-d.R programming
-e.SAS
-f.Tableau
-
-# Projects Which I Have done during Training at Edubridge India;
 a.Sales Data Analysis using Python libraries Numpy,Pandas,Matplotlib,Seaborn by Python.
 b.Creating the Sales Dashboard in Excel And Tableau.
 c.Regression Analysis(Simple & Multiple) of (Height & Weight) and (Heart Disease) in Excel.
