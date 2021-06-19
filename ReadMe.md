@@ -1,7 +1,7 @@
 # EduBridge Learning;
 This repository contains projects which were created at the time of learning Data Analytics from EduBridge Learning:
 
-1.Sales Data Analysis using Python libraries Numpy,Pandas,Matplotlib,Seaborn by Python.
+1.Sales Data Analysis using Python libraries Numpy,Pandas,Matplotlib,Seaborn in Python.
 
 2.Creating the Sales Dashboard in Excel And Tableau.
 
